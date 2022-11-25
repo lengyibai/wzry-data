@@ -1,0 +1,477 @@
+{
+  "data": [
+    {
+      "id": 111,
+      "type": "攻击",
+      "level": 1,
+      "name": "铁剑",
+      "price": 250,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/physical/1_1.png",
+      "effect": [
+        {
+          "name": "物理攻击",
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "type": "攻击",
+      "level": 2,
+      "name": "风暴巨剑",
+      "price": 910,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/physical/2_1.png",
+      "effect": [
+        {
+          "name": "物理攻击",
+          "num": 80
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "type": "法术",
+      "level": 1,
+      "name": "咒术典籍",
+      "price": 300,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/magic/1_1.png",
+      "effect": [
+        {
+          "name": "法术攻击",
+          "num": 40
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "type": "法术",
+      "level": 2,
+      "name": "大棒",
+      "price": 820,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/magic/2_1.png",
+      "effect": [
+        {
+          "name": "法术攻击",
+          "num": 120
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "type": "法术",
+      "level": 3,
+      "name": "圣杯",
+      "price": 1800,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/magic/3_1.png",
+      "effect": [
+        {
+          "name": "法术攻击",
+          "num": 180
+        },
+        {
+          "name": "冷却缩减",
+          "num": "15%"
+        },
+        {
+          "name": "每5秒回蓝",
+          "num": 25
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "法力源泉",
+          "desc": "每秒回复1%最大法力，如果法力已满，每秒回复1%最大生命"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "type": "防御",
+      "level": 1,
+      "name": "红玛瑙",
+      "price": 300,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/defense/1_1.png",
+      "effect": [
+        {
+          "name": "最大生命",
+          "num": "300"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "type": "防御",
+      "level": 2,
+      "name": "力量腰带",
+      "price": 900,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/defense/2_1.png",
+      "effect": [
+        {
+          "name": "最大生命",
+          "num": "1000"
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "type": "防御",
+      "level": 3,
+      "name": "红莲斗篷",
+      "desc": "灼烧周围敌人",
+      "price": 1800,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/defense/3_1.png",
+      "effect": [
+        {
+          "name": "物理防御",
+          "num": 240
+        },
+        {
+          "name": "最大生命",
+          "num": 1000
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "业炎",
+          "desc": "每秒对300范围内的敌人造成(2%)法术伤害，对小兵额外造成(2%)法术伤害",
+          "time": 1.2
+        }
+      ]
+    },
+    {
+      "id": 3310,
+      "type": "防御",
+      "level": 3,
+      "name": "冰痕之握",
+      "desc": "强化普攻减速",
+      "price": 2100,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/defense/3_10.png",
+      "effect": [
+        {
+          "name": "物理攻击",
+          "num": 40
+        },
+        {
+          "name": "冷却缩减",
+          "num": "20%"
+        },
+        {
+          "name": "最大法力",
+          "num": 500
+        },
+        {
+          "name": "物理防御",
+          "num": 240
+        },
+        {
+          "name": "最大生命",
+          "num": 500
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "强击",
+          "desc": "使用技能后，5秒内的下次普攻对范围内敌人额外造成140~420物理伤害，并减少30%移速(远程英雄为20%)，持续0.5秒",
+          "time": 1.2
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "type": "移动",
+      "level": 1,
+      "name": "神速之靴",
+      "price": 250,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/move/1_1.png",
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "神速",
+          "desc": "获得30移速"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "type": "移动",
+      "level": 2,
+      "name": "影忍之足",
+      "price": 710,
+      "desc": "减少普攻伤害",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/move/2_1.png",
+      "effect": [
+        {
+          "name": "物理防御",
+          "num": 110
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "神速",
+          "desc": "获得60移速"
+        },
+        {
+          "type": "被动",
+          "name": "防护",
+          "desc": "减少15%受到的普攻伤害"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "type": "打野",
+      "level": 1,
+      "name": "狩猎宽刃",
+      "price": 250,
+      "desc": "加快打野速度",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/jungle/1_1.png",
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "狩猎",
+          "desc": "增加25%对野怪的伤害，受到野怪(远古生物除外)伤害降低25%，自己击杀或700范围内友方击杀野怪时，自己会额外获得20%经验"
+        },
+        {
+          "type": "被动",
+          "name": "游击",
+          "desc": "与队友分配小兵收益时，不参与分配，单独获得50%金币和经验"
+        }
+      ],
+      "note": "该效果在4分钟时移除，分配时若存在多个游击效果，只一人生效，游走装优先"
+    },
+    {
+      "id": 521,
+      "type": "打野",
+      "level": 2,
+      "name": "游击弯刀",
+      "price": 750,
+      "desc": "打野怪加法强",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/jungle/2_1.png",
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "回响",
+          "desc": "技能命中后，之后在地面留下2秒范围持续爆炸，共造成(200+10%)法术伤害",
+          "time": 5
+        },
+        {
+          "type": "被动",
+          "name": "狩猎",
+          "desc": "增加30%对野怪的伤害，受到野怪(远古生物除外)伤害降低25%，自己击杀或700范围内友方击杀野怪时，自己会额外获得30%经验和20%金币"
+        },
+        {
+          "type": "被动",
+          "name": "奖赏",
+          "desc": "自己击杀或700范围内友方击杀野怪会增加自身6点法术攻击，可叠加20层"
+        },
+        {
+          "type": "被动",
+          "name": "游击",
+          "desc": "与队友分配小兵收益时，不参与分配，单独获得50%金币和经验"
+        }
+      ],
+      "note": "该效果在4分钟时移除，分配时若存在多个游击效果，只一人生效，游走装优先"
+    },
+    {
+      "id": 531,
+      "type": "打野",
+      "level": 3,
+      "name": "符文大剑",
+      "price": 2160,
+      "desc": "打野怪加法强",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/jungle/3_1.png",
+      "effect": [
+        {
+          "name": "法术攻击",
+          "num": 80
+        },
+        {
+          "name": "冷却缩减",
+          "num": "5%"
+        },
+        {
+          "name": "移速",
+          "num": "7%"
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "回响",
+          "desc": "技能命中后触发范围爆炸，造成(150+25%)法术伤害，之后在地面留下2秒范围持续爆炸，共造成(200+10%)法术伤害",
+          "time": 5
+        },
+        {
+          "type": "被动",
+          "name": "狩猎",
+          "desc": "增加30%对野怪的伤害，受到野怪(远古生物除外)伤害降低25%，自己击杀或700范围内友方击杀野怪时，自己会额外获得30%经验和20%金币"
+        },
+        {
+          "type": "被动",
+          "name": "奖赏",
+          "desc": "自己击杀或700范围内友方击杀野怪会增加自身6点法术攻击，可叠加30层"
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "type": "游走",
+      "level": 1,
+      "name": "学识宝石",
+      "price": 300,
+      "desc": "额外金币经验",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/wander/1_1.png",
+      "effect": [
+        {
+          "name": "移速",
+          "num": "5%"
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "游击",
+          "desc": "与队友分配野怪和小兵收益时，不参与分配，单独获得30%金币和经验",
+          "note": "该效果在10分钟时移除，多人出游走装时，只有经济最低的出装者生效"
+        },
+        {
+          "type": "被动",
+          "name": "奖赏",
+          "desc": "经济为队伍4/5名时，每3秒获得5点金币和经验，每30秒获得1层奖赏效果，最多20层",
+          "note": "加金币和经验的效果在12分钟时移除，多人出游走装时，只有经济最低的出装者生效，该效果和打野刀的奖赏效果不同时生效"
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "type": "游走",
+      "level": 2,
+      "name": "凤鸣指环",
+      "price": 900,
+      "desc": "光环加输出",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/wander/2_1.png",
+      "effect": [
+        {
+          "name": "最大生命",
+          "num": 500
+        },
+        {
+          "name": "移速",
+          "num": "5%"
+        }
+      ],
+      "motivation": [
+        {
+          "type": "光环",
+          "name": "迅捷",
+          "desc": "增加800范围友方10%攻速和5%冷却缩减",
+          "note": "多个游走光环无法同时生效"
+        },
+        {
+          "type": "被动",
+          "name": "游击",
+          "desc": "与队友分配野怪和小兵收益时，不参与分配，单独获得30%金币和经验",
+          "note": "该效果在10分钟时移除，多人出游走装时，只有经济最低的出装者生效"
+        },
+        {
+          "type": "被动",
+          "name": "奖赏",
+          "desc": "经济为队伍4/5名时，每3秒获得5点金币和经验，每30秒获得1层奖赏效果，最多20层",
+          "note": "加金币和经验的效果在12分钟时移除，多人出游走装时，只有经济最低的出装者生效，该效果和打野刀的奖赏效果不同时生效"
+        },
+        {
+          "type": "被动",
+          "name": "强化",
+          "desc": "每层奖赏增加2物理攻击和4法术攻击"
+        }
+      ]
+    },
+    {
+      "id": 631,
+      "type": "游走",
+      "level": 3,
+      "name": "极影",
+      "price": 1900,
+      "desc": "光环加输出",
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/wander/3_1.png",
+      "effect": [
+        {
+          "name": "最大生命",
+          "num": 1200
+        },
+        {
+          "name": "移速",
+          "num": "8%"
+        }
+      ],
+      "motivation": [
+        {
+          "type": "光环",
+          "name": "迅捷",
+          "desc": "增加800范围友方20%攻速和10%冷却缩减",
+          "note": "多个游走光环无法同时生效"
+        },
+        {
+          "type": "被动",
+          "name": "游击",
+          "desc": "与队友分配野怪和小兵收益时，不参与分配，单独获得30%金币和经验",
+          "note": "该效果在10分钟时移除，多人出游走装时，只有经济最低的出装者生效"
+        },
+        {
+          "type": "被动",
+          "name": "奖赏",
+          "desc": "经济为队伍4/5名时，每3秒获得5点金币和经验，每30秒获得1层奖赏效果，最多20层",
+          "note": "加金币和经验的效果在12分钟时移除，多人出游走装时，只有经济最低的出装者生效，该效果和打野刀的奖赏效果不同时生效"
+        },
+        {
+          "type": "被动",
+          "name": "强化",
+          "desc": "每层奖赏增加2物理攻击和4法术攻击"
+        }
+      ]
+    },
+    {
+      "type": "攻击",
+      "level": 3,
+      "name": "天穹",
+      "desc": "暂时增加免伤",
+      "price": 3370,
+      "icon": "http://lengyibai.gitee.io/wzry-material/equip/physical/3_12.png",
+      "effect": [
+        {
+          "name": "物理攻击",
+          "num": "100"
+        },
+        {
+          "name": "冷却缩减",
+          "num": "10%"
+        },
+        {
+          "name": "最大生命",
+          "num": "500"
+        }
+      ],
+      "motivation": [
+        {
+          "type": "被动",
+          "name": "驱散",
+          "desc": "<p>技能对首个命中的敌方英雄造成30%减速，并使其对自己的伤害降低20%，持续3秒</p>",
+          "time": 8
+        },
+        {
+          "type": "主动",
+          "name": "残废",
+          "desc": "<p>解除所有控制，获得40%减伤，增加30%移速并无视地形阻挡，持续3秒，期间击杀敌方英雄可刷新效果持续时间</p>",
+          "time": 90
+        }
+      ],
+      "num": 12,
+      "id": 1312,
+      "note": "<p>那一刻，徘徊而没落的王,在暗与光的彷徨中做出最终的抉择</p>"
+    }
+  ]
+}
