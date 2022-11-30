@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": "1",
+      "id": 1,
       "name": "赵云",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhaoyun/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhaoyun/haibao/0.jpg",
@@ -25,7 +25,7 @@
       "history": "待设置"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "妲己",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/daji/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/daji/haibao/0.jpg",
@@ -49,7 +49,7 @@
       "history": "待设置"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "高渐离",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/gaojianli/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/gaojianli/haibao/0.jpg",
@@ -73,7 +73,7 @@
       "history": "待设置"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "白起",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/baiqi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/baiqi/haibao/0.jpg",
@@ -97,7 +97,7 @@
       "history": "待设置"
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "武则天",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/wuzetian/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/wuzetian/haibao/0.jpg",
@@ -121,7 +121,7 @@
       "history": "待设置"
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "露娜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/luna/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/luna/haibao/0.jpg",
@@ -145,7 +145,7 @@
       "history": "待设置"
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "廉颇",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lianpo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lianpo/haibao/0.jpg",
@@ -169,7 +169,7 @@
       "history": "待设置"
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "嬴政",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yingzheng/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yingzheng/haibao/0.jpg",
@@ -193,7 +193,7 @@
       "history": "待设置"
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "阿轲",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/ake/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/ake/haibao/0.jpg",
@@ -217,7 +217,7 @@
       "history": "待设置"
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "甄姬",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhenji/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhenji/haibao/0.jpg",
@@ -241,7 +241,7 @@
       "history": "待设置"
     },
     {
-      "id": "11",
+      "id": 11,
       "name": "老夫子",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/laofuzi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/laofuzi/haibao/0.jpg",
@@ -265,7 +265,7 @@
       "history": "待设置"
     },
     {
-      "id": "12",
+      "id": 12,
       "name": "姜子牙",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/jiangziya/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/jiangziya/haibao/0.jpg",
@@ -289,7 +289,7 @@
       "history": "待设置"
     },
     {
-      "id": "13",
+      "id": 13,
       "name": "小乔",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/xiaoqiao/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/xiaoqiao/haibao/0.jpg",
@@ -313,7 +313,7 @@
       "history": "待设置"
     },
     {
-      "id": "14",
+      "id": 14,
       "name": "鲁班七号",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lubanqihao/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lubanqihao/haibao/0.jpg",
@@ -337,7 +337,7 @@
       "history": "待设置"
     },
     {
-      "id": "15",
+      "id": 15,
       "name": "钟无艳",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhongwuyan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhongwuyan/haibao/0.jpg",
@@ -361,7 +361,7 @@
       "history": "待设置"
     },
     {
-      "id": "16",
+      "id": 16,
       "name": "狄仁杰",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/direnjie/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/direnjie/haibao/0.jpg",
@@ -385,7 +385,7 @@
       "history": "待设置"
     },
     {
-      "id": "17",
+      "id": 17,
       "name": "张良",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhangliang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhangliang/haibao/0.jpg",
@@ -409,7 +409,7 @@
       "history": "待设置"
     },
     {
-      "id": "18",
+      "id": 18,
       "name": "墨子",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/mozi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/mozi/haibao/0.jpg",
@@ -433,7 +433,7 @@
       "history": "待设置"
     },
     {
-      "id": "19",
+      "id": 19,
       "name": "庄周",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhuangzhou/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhuangzhou/haibao/0.jpg",
@@ -457,7 +457,7 @@
       "history": "待设置"
     },
     {
-      "id": "20",
+      "id": 20,
       "name": "孙膑",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sunbin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sunbin/haibao/0.jpg",
@@ -481,7 +481,7 @@
       "history": "待设置"
     },
     {
-      "id": "21",
+      "id": 21,
       "name": "典韦",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/dianwei/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/dianwei/haibao/0.jpg",
@@ -505,7 +505,7 @@
       "history": "待设置"
     },
     {
-      "id": "22",
+      "id": 22,
       "name": "达摩",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/damo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/damo/haibao/0.jpg",
@@ -529,7 +529,7 @@
       "history": "待设置"
     },
     {
-      "id": "23",
+      "id": 23,
       "name": "韩信",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/hanxin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/hanxin/haibao/0.jpg",
@@ -553,7 +553,7 @@
       "history": "待设置"
     },
     {
-      "id": "24",
+      "id": 24,
       "name": "亚瑟",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yase/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yase/haibao/0.jpg",
@@ -577,7 +577,7 @@
       "history": "待设置"
     },
     {
-      "id": "25",
+      "id": 25,
       "name": "孙尚香",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sunshangxiang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sunshangxiang/haibao/0.jpg",
@@ -601,7 +601,7 @@
       "history": "待设置"
     },
     {
-      "id": "26",
+      "id": 26,
       "name": "刘禅",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/liushan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/liushan/haibao/0.jpg",
@@ -625,7 +625,7 @@
       "history": "待设置"
     },
     {
-      "id": "27",
+      "id": 27,
       "name": "扁鹊",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/bianque/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/bianque/haibao/0.jpg",
@@ -649,7 +649,7 @@
       "history": "待设置"
     },
     {
-      "id": "28",
+      "id": 28,
       "name": "宫本武藏",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/gongbenwuzang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/gongbenwuzang/haibao/0.jpg",
@@ -673,7 +673,7 @@
       "history": "待设置"
     },
     {
-      "id": "29",
+      "id": 29,
       "name": "项羽",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/xiangyu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/xiangyu/haibao/0.jpg",
@@ -697,7 +697,7 @@
       "history": "待设置"
     },
     {
-      "id": "30",
+      "id": 30,
       "name": "程咬金",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/chengyaojin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/chengyaojin/haibao/0.jpg",
@@ -721,7 +721,7 @@
       "history": "待设置"
     },
     {
-      "id": "31",
+      "id": 31,
       "name": "王昭君",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/wangzhaojun/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/wangzhaojun/haibao/0.jpg",
@@ -745,7 +745,7 @@
       "history": "待设置"
     },
     {
-      "id": "32",
+      "id": 32,
       "name": "安琪拉",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/anqila/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/anqila/haibao/0.jpg",
@@ -769,7 +769,7 @@
       "history": "待设置"
     },
     {
-      "id": "33",
+      "id": 33,
       "name": "曹操",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/caocao/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/caocao/haibao/0.jpg",
@@ -793,7 +793,7 @@
       "history": "待设置"
     },
     {
-      "id": "34",
+      "id": 34,
       "name": "周瑜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhouyu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhouyu/haibao/0.jpg",
@@ -817,7 +817,7 @@
       "history": "待设置"
     },
     {
-      "id": "35",
+      "id": 35,
       "name": "牛魔",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/niumo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/niumo/haibao/0.jpg",
@@ -841,7 +841,7 @@
       "history": "待设置"
     },
     {
-      "id": "36",
+      "id": 36,
       "name": "孙悟空",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sunwukong/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sunwukong/haibao/0.jpg",
@@ -865,7 +865,7 @@
       "history": "待设置"
     },
     {
-      "id": "37",
+      "id": 37,
       "name": "芈月",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/miyue/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/miyue/haibao/0.jpg",
@@ -889,7 +889,7 @@
       "history": "待设置"
     },
     {
-      "id": "38",
+      "id": 38,
       "name": "貂蝉",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/diaochan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/diaochan/haibao/0.jpg",
@@ -913,7 +913,7 @@
       "history": "待设置"
     },
     {
-      "id": "39",
+      "id": 39,
       "name": "吕布",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lvbu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lvbu/haibao/0.jpg",
@@ -937,7 +937,7 @@
       "history": "待设置"
     },
     {
-      "id": "40",
+      "id": 40,
       "name": "花木兰",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/huamulan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/huamulan/haibao/0.jpg",
@@ -961,7 +961,7 @@
       "history": "待设置"
     },
     {
-      "id": "41",
+      "id": 41,
       "name": "后羿",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/houyi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/houyi/haibao/0.jpg",
@@ -985,7 +985,7 @@
       "history": "待设置"
     },
     {
-      "id": "42",
+      "id": 42,
       "name": "张飞",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhangfei/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhangfei/haibao/0.jpg",
@@ -1009,7 +1009,7 @@
       "history": "待设置"
     },
     {
-      "id": "43",
+      "id": 43,
       "name": "刘备",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/liubei/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/liubei/haibao/0.jpg",
@@ -1033,7 +1033,7 @@
       "history": "待设置"
     },
     {
-      "id": "44",
+      "id": 44,
       "name": "兰陵王",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lanlingwang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lanlingwang/haibao/0.jpg",
@@ -1057,7 +1057,7 @@
       "history": "待设置"
     },
     {
-      "id": "45",
+      "id": 45,
       "name": "娜可露露",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/nakelulu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/nakelulu/haibao/0.jpg",
@@ -1081,7 +1081,7 @@
       "history": "待设置"
     },
     {
-      "id": "46",
+      "id": 46,
       "name": "李白",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/libai/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/libai/haibao/0.jpg",
@@ -1105,7 +1105,7 @@
       "history": "待设置"
     },
     {
-      "id": "47",
+      "id": 47,
       "name": "钟馗",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhongkui/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhongkui/haibao/0.jpg",
@@ -1129,7 +1129,7 @@
       "history": "待设置"
     },
     {
-      "id": "48",
+      "id": 48,
       "name": "李元芳",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/liyuanfang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/liyuanfang/haibao/0.jpg",
@@ -1153,7 +1153,7 @@
       "history": "待设置"
     },
     {
-      "id": "49",
+      "id": 49,
       "name": "刘邦",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/liubang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/liubang/haibao/0.jpg",
@@ -1177,7 +1177,7 @@
       "history": "待设置"
     },
     {
-      "id": "50",
+      "id": 50,
       "name": "不知火舞",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/buzhihuowu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/buzhihuowu/haibao/0.jpg",
@@ -1201,7 +1201,7 @@
       "history": "待设置"
     },
     {
-      "id": "51",
+      "id": 51,
       "name": "虞姬",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yuji/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yuji/haibao/0.jpg",
@@ -1225,7 +1225,7 @@
       "history": "待设置"
     },
     {
-      "id": "52",
+      "id": 52,
       "name": "关羽",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/guanyu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/guanyu/haibao/0.jpg",
@@ -1249,7 +1249,7 @@
       "history": "待设置"
     },
     {
-      "id": "53",
+      "id": 53,
       "name": "蔡文姬",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/caiwenji/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/caiwenji/haibao/0.jpg",
@@ -1273,7 +1273,7 @@
       "history": "待设置"
     },
     {
-      "id": "54",
+      "id": 54,
       "name": "夏侯惇",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/xiahoudun/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/xiahoudun/haibao/0.jpg",
@@ -1297,7 +1297,7 @@
       "history": "待设置"
     },
     {
-      "id": "55",
+      "id": 55,
       "name": "雅典娜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yadianna/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yadianna/haibao/0.jpg",
@@ -1321,7 +1321,7 @@
       "history": "待设置"
     },
     {
-      "id": "56",
+      "id": 56,
       "name": "马可波罗",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/makeboluo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/makeboluo/haibao/0.jpg",
@@ -1345,7 +1345,7 @@
       "history": "待设置"
     },
     {
-      "id": "57",
+      "id": 57,
       "name": "橘右京",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/juyoujing/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/juyoujing/haibao/0.jpg",
@@ -1369,7 +1369,7 @@
       "history": "待设置"
     },
     {
-      "id": "58",
+      "id": 58,
       "name": "成吉思汗",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/chengjisihan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/chengjisihan/haibao/0.jpg",
@@ -1393,7 +1393,7 @@
       "history": "待设置"
     },
     {
-      "id": "59",
+      "id": 59,
       "name": "杨戬",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yangjian/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yangjian/haibao/0.jpg",
@@ -1417,7 +1417,7 @@
       "history": "待设置"
     },
     {
-      "id": "60",
+      "id": 60,
       "name": "太乙真人",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/taiyizhenren/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/taiyizhenren/haibao/0.jpg",
@@ -1520,7 +1520,7 @@
       "history": "<p><br></p>"
     },
     {
-      "id": "61",
+      "id": 61,
       "name": "哪吒",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/nezha/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/nezha/haibao/0.jpg",
@@ -1544,7 +1544,7 @@
       "history": "待设置"
     },
     {
-      "id": "62",
+      "id": 62,
       "name": "诸葛亮",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhugeliang/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhugeliang/haibao/0.jpg",
@@ -1568,7 +1568,7 @@
       "history": "待设置"
     },
     {
-      "id": "63",
+      "id": 63,
       "name": "黄忠",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/huangzhong/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/huangzhong/haibao/0.jpg",
@@ -1592,7 +1592,7 @@
       "history": "待设置"
     },
     {
-      "id": "64",
+      "id": 64,
       "name": "大乔",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/daqiao/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/daqiao/haibao/0.jpg",
@@ -1616,7 +1616,7 @@
       "history": "待设置"
     },
     {
-      "id": "65",
+      "id": 65,
       "name": "东皇太一",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/donghuangtaiyi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/donghuangtaiyi/haibao/0.jpg",
@@ -1640,7 +1640,7 @@
       "history": "待设置"
     },
     {
-      "id": "66",
+      "id": 66,
       "name": "干将莫邪",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/ganjiangmoye/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/ganjiangmoye/haibao/0.jpg",
@@ -1664,7 +1664,7 @@
       "history": "待设置"
     },
     {
-      "id": "67",
+      "id": 67,
       "name": "鬼谷子",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/guiguzi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/guiguzi/haibao/0.jpg",
@@ -1783,7 +1783,7 @@
       "history": "鬼谷子，姓王名诩，又名王禅，号玄微子，为春秋战国时期人。因隐居清溪鬼谷，故自称鬼谷先生。他精通百家学问，通天彻地，智慧卓绝，为兵法家尊为圣人，亦是纵横家开山祖师。《史记》中有《苏秦列传》和《张仪列传》记载其事迹，二人均师从鬼谷门下。鬼谷子的代表作为《鬼谷子》，又名《捭阖策》，一说由鬼谷先生后学者整理其言论而成。该书融合了鬼谷子毕生学术研究精华，总结了纵横家游说经验，为后世了解纵横家与道家思想提供了极有价值的参考，被称为“智慧禁果，旷世奇书”。"
     },
     {
-      "id": "68",
+      "id": 68,
       "name": "铠",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/kai/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/kai/haibao/0.jpg",
@@ -1807,7 +1807,7 @@
       "history": "待设置"
     },
     {
-      "id": "69",
+      "id": 69,
       "name": "百里守约",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/bailishouyue/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/bailishouyue/haibao/0.jpg",
@@ -1831,7 +1831,7 @@
       "history": "待设置"
     },
     {
-      "id": "70",
+      "id": 70,
       "name": "百里玄策",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/bailixuance/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/bailixuance/haibao/0.jpg",
@@ -1855,7 +1855,7 @@
       "history": "待设置"
     },
     {
-      "id": "71",
+      "id": 71,
       "name": "苏烈",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sulie/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sulie/haibao/0.jpg",
@@ -1879,7 +1879,7 @@
       "history": "待设置"
     },
     {
-      "id": "72",
+      "id": 72,
       "name": "梦奇",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/mengqi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/mengqi/haibao/0.jpg",
@@ -1903,7 +1903,7 @@
       "history": "待设置"
     },
     {
-      "id": "73",
+      "id": 73,
       "name": "女娲",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/nvwa/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/nvwa/haibao/0.jpg",
@@ -1927,7 +1927,7 @@
       "history": "待设置"
     },
     {
-      "id": "74",
+      "id": 74,
       "name": "明世隐",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/mingshiyin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/mingshiyin/haibao/0.jpg",
@@ -1951,7 +1951,7 @@
       "history": "待设置"
     },
     {
-      "id": "75",
+      "id": 75,
       "name": "公孙离",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/gongsunli/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/gongsunli/haibao/0.jpg",
@@ -1975,7 +1975,7 @@
       "history": "待设置"
     },
     {
-      "id": "76",
+      "id": 76,
       "name": "杨玉环",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yangyuhuan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yangyuhuan/haibao/0.jpg",
@@ -1999,7 +1999,7 @@
       "history": "待设置"
     },
     {
-      "id": "77",
+      "id": 77,
       "name": "裴擒虎",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/peiqinhu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/peiqinhu/haibao/0.jpg",
@@ -2023,7 +2023,7 @@
       "history": "待设置"
     },
     {
-      "id": "78",
+      "id": 78,
       "name": "弈星",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yixing/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yixing/haibao/0.jpg",
@@ -2047,7 +2047,7 @@
       "history": "待设置"
     },
     {
-      "id": "79",
+      "id": 79,
       "name": "狂铁",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/kuangtie/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/kuangtie/haibao/0.jpg",
@@ -2071,7 +2071,7 @@
       "history": "待设置"
     },
     {
-      "id": "80",
+      "id": 80,
       "name": "米莱狄",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/milaidi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/milaidi/haibao/0.jpg",
@@ -2095,7 +2095,7 @@
       "history": "待设置"
     },
     {
-      "id": "81",
+      "id": 81,
       "name": "元歌",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yuange/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yuange/haibao/0.jpg",
@@ -2119,7 +2119,7 @@
       "history": "待设置"
     },
     {
-      "id": "82",
+      "id": 82,
       "name": "孙策",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sunce/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sunce/haibao/0.jpg",
@@ -2143,7 +2143,7 @@
       "history": "待设置"
     },
     {
-      "id": "83",
+      "id": 83,
       "name": "司马懿",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/simayi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/simayi/haibao/0.jpg",
@@ -2167,7 +2167,7 @@
       "history": "待设置"
     },
     {
-      "id": "84",
+      "id": 84,
       "name": "盾山",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/dunshan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/dunshan/haibao/0.jpg",
@@ -2191,7 +2191,7 @@
       "history": "待设置"
     },
     {
-      "id": "85",
+      "id": 85,
       "name": "伽罗",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/jialuo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/jialuo/haibao/0.jpg",
@@ -2215,7 +2215,7 @@
       "history": "待设置"
     },
     {
-      "id": "86",
+      "id": 86,
       "name": "沈梦溪",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/shenmengxi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/shenmengxi/haibao/0.jpg",
@@ -2239,7 +2239,7 @@
       "history": "待设置"
     },
     {
-      "id": "87",
+      "id": 87,
       "name": "李信",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lixin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lixin/haibao/0.jpg",
@@ -2263,7 +2263,7 @@
       "history": "待设置"
     },
     {
-      "id": "88",
+      "id": 88,
       "name": "上官婉儿",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/shangguanwaner/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/shangguanwaner/haibao/0.jpg",
@@ -2287,7 +2287,7 @@
       "history": "待设置"
     },
     {
-      "id": "89",
+      "id": 89,
       "name": "嫦娥",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/change/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/change/haibao/0.jpg",
@@ -2311,7 +2311,7 @@
       "history": "待设置"
     },
     {
-      "id": "90",
+      "id": 90,
       "name": "猪八戒",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/zhubajie/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/zhubajie/haibao/0.jpg",
@@ -2335,7 +2335,7 @@
       "history": "待设置"
     },
     {
-      "id": "91",
+      "id": 91,
       "name": "盘古",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/pangu/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/pangu/haibao/0.jpg",
@@ -2359,7 +2359,7 @@
       "history": "待设置"
     },
     {
-      "id": "92",
+      "id": 92,
       "name": "瑶",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yao1/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yao1/haibao/0.jpg",
@@ -2383,7 +2383,7 @@
       "history": "待设置"
     },
     {
-      "id": "93",
+      "id": 93,
       "name": "云中君",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yunzhongjun/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yunzhongjun/haibao/0.jpg",
@@ -2407,7 +2407,7 @@
       "history": "待设置"
     },
     {
-      "id": "94",
+      "id": 94,
       "name": "曜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yao2/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yao2/haibao/0.jpg",
@@ -2431,7 +2431,7 @@
       "history": "待设置"
     },
     {
-      "id": "95",
+      "id": 95,
       "name": "马超",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/machao/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/machao/haibao/0.jpg",
@@ -2455,7 +2455,7 @@
       "history": "待设置"
     },
     {
-      "id": "96",
+      "id": 96,
       "name": "西施",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/xishi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/xishi/haibao/0.jpg",
@@ -2479,7 +2479,7 @@
       "history": "待设置"
     },
     {
-      "id": "97",
+      "id": 97,
       "name": "鲁班大师",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lubandashi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lubandashi/haibao/0.jpg",
@@ -2503,7 +2503,7 @@
       "history": "待设置"
     },
     {
-      "id": "98",
+      "id": 98,
       "name": "蒙犽",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/mengya/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/mengya/haibao/0.jpg",
@@ -2527,7 +2527,7 @@
       "history": "待设置"
     },
     {
-      "id": "99",
+      "id": 99,
       "name": "镜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/jing/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/jing/haibao/0.jpg",
@@ -2551,7 +2551,7 @@
       "history": "待设置"
     },
     {
-      "id": "100",
+      "id": 100,
       "name": "蒙恬",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/mengtian/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/mengtian/haibao/0.jpg",
@@ -2575,7 +2575,7 @@
       "history": "待设置"
     },
     {
-      "id": "101",
+      "id": 101,
       "name": "阿古朵",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/aguduo/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/aguduo/haibao/0.jpg",
@@ -2599,7 +2599,7 @@
       "history": "待设置"
     },
     {
-      "id": "102",
+      "id": 102,
       "name": "夏洛特",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/xialuote/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/xialuote/haibao/0.jpg",
@@ -2623,7 +2623,7 @@
       "history": "待设置"
     },
     {
-      "id": "103",
+      "id": 103,
       "name": "澜",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/lan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/lan/haibao/0.jpg",
@@ -2647,7 +2647,7 @@
       "history": "待设置"
     },
     {
-      "id": "104",
+      "id": 104,
       "name": "司空震",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sikongzhen/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sikongzhen/haibao/0.jpg",
@@ -2671,7 +2671,7 @@
       "history": "待设置"
     },
     {
-      "id": "105",
+      "id": 105,
       "name": "艾琳",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/ailin/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/ailin/haibao/0.jpg",
@@ -2695,7 +2695,7 @@
       "history": "待设置"
     },
     {
-      "id": "106",
+      "id": 106,
       "name": "云缨",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/yunying/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/yunying/haibao/0.jpg",
@@ -2719,7 +2719,7 @@
       "history": "待设置"
     },
     {
-      "id": "107",
+      "id": 107,
       "name": "金蝉",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/jinchan/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/jinchan/haibao/0.jpg",
@@ -2743,7 +2743,7 @@
       "history": "待设置"
     },
     {
-      "id": "108",
+      "id": 108,
       "name": "暃",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/fei/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/fei/haibao/0.jpg",
@@ -2767,7 +2767,7 @@
       "history": "待设置"
     },
     {
-      "id": "109",
+      "id": 109,
       "name": "桑启",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/sangqi/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/sangqi/haibao/0.jpg",
@@ -2791,7 +2791,7 @@
       "history": "待设置"
     },
     {
-      "id": "110",
+      "id": 110,
       "name": "戈娅",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/geya/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/geya/haibao/0.jpg",
@@ -2815,7 +2815,7 @@
       "history": "待设置"
     },
     {
-      "id": "111",
+      "id": 111,
       "name": "海月",
       "headImg": "https://lengyibai.gitee.io/wzry-material/hero/haiyue/touxiang/0.jpg",
       "poster": "https://lengyibai.gitee.io/wzry-material/hero/haiyue/haibao/0.jpg",
